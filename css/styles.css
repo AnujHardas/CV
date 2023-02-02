@@ -1,0 +1,21 @@
+body{
+         background-color: #D5CEA3;
+      }
+      hr{
+         border-style: none;
+         border-top-style: dotted;
+         width: 10%;
+         border-color: grey;
+         border-width: 8px;
+      }
+h1{
+    color: #a80924;
+    font-style: italic;
+}      
+h3{
+    color: #f3072a;
+}
+
+img:hover{
+    border-radius: 100%;
+}
